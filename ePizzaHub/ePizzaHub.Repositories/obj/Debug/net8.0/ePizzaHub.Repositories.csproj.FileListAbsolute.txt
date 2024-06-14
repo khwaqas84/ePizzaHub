@@ -1,0 +1,17 @@
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net8.0\ePizzaHub.Repositories.csproj.AssemblyReference.cache
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net8.0\ePizzaHub.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net8.0\ePizzaHub.Repositories.AssemblyInfoInputs.cache
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net8.0\ePizzaHub.Repositories.AssemblyInfo.cs
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net8.0\ePizzaHub.Repositories.csproj.CoreCompileInputs.cache
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net8.0\ePizzaHub.Repositories.deps.json
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net8.0\ePizzaHub.Repositories.dll
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net8.0\ePizzaHub.Repositories.pdb
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net8.0\ePizzaHub.Core.dll
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net8.0\ePizzaHub.Models.dll
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net8.0\ePizzaHub.Core.pdb
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net8.0\ePizzaHub.Models.pdb
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net8.0\ePizzaHu.9CC6F612.Up2Date
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net8.0\ePizzaHub.Repositories.dll
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net8.0\refint\ePizzaHub.Repositories.dll
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net8.0\ePizzaHub.Repositories.pdb
+C:\Projects\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net8.0\ref\ePizzaHub.Repositories.dll

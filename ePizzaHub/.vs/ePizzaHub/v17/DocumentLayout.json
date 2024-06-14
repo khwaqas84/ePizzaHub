@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ePizzaHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|c:\\projects\\epizzahub\\epizzahub.ui\\areas\\admin\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|solutionrelative:epizzahub.ui\\areas\\admin\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|c:\\projects\\epizzahub\\epizzahub.ui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|solutionrelative:epizzahub.ui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|c:\\projects\\epizzahub\\epizzahub.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|solutionrelative:epizzahub.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|c:\\projects\\epizzahub\\epizzahub.ui\\views\\shared\\_fullsizelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|solutionrelative:epizzahub.ui\\views\\shared\\_fullsizelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|c:\\projects\\epizzahub\\epizzahub.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|solutionrelative:epizzahub.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|c:\\projects\\epizzahub\\epizzahub.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|solutionrelative:epizzahub.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E430A4B-68A6-4F7E-B8FD-8F0B95CA42CC}|ePizzaHub.API\\ePizzaHub.API.csproj|c:\\projects\\epizzahub\\epizzahub.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E430A4B-68A6-4F7E-B8FD-8F0B95CA42CC}|ePizzaHub.API\\ePizzaHub.API.csproj|solutionrelative:epizzahub.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E430A4B-68A6-4F7E-B8FD-8F0B95CA42CC}|ePizzaHub.API\\ePizzaHub.API.csproj|c:\\projects\\epizzahub\\epizzahub.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E430A4B-68A6-4F7E-B8FD-8F0B95CA42CC}|ePizzaHub.API\\ePizzaHub.API.csproj|solutionrelative:epizzahub.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E430A4B-68A6-4F7E-B8FD-8F0B95CA42CC}|ePizzaHub.API\\ePizzaHub.API.csproj|c:\\projects\\epizzahub\\epizzahub.api\\epizzahub.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E430A4B-68A6-4F7E-B8FD-8F0B95CA42CC}|ePizzaHub.API\\ePizzaHub.API.csproj|solutionrelative:epizzahub.api\\epizzahub.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|c:\\projects\\epizzahub\\epizzahub.ui\\areas\\admin\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|solutionrelative:epizzahub.ui\\areas\\admin\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E430A4B-68A6-4F7E-B8FD-8F0B95CA42CC}|ePizzaHub.API\\ePizzaHub.API.csproj|c:\\projects\\epizzahub\\epizzahub.api\\filters\\customauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E430A4B-68A6-4F7E-B8FD-8F0B95CA42CC}|ePizzaHub.API\\ePizzaHub.API.csproj|solutionrelative:epizzahub.api\\filters\\customauthorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E430A4B-68A6-4F7E-B8FD-8F0B95CA42CC}|ePizzaHub.API\\ePizzaHub.API.csproj|c:\\projects\\epizzahub\\epizzahub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E430A4B-68A6-4F7E-B8FD-8F0B95CA42CC}|ePizzaHub.API\\ePizzaHub.API.csproj|solutionrelative:epizzahub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013A53AB-2F59-4B46-A522-6AFD0ADE80EE}|ePizzaHub.Services\\ePizzaHub.Services.csproj|c:\\projects\\epizzahub\\epizzahub.services\\implementation\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013A53AB-2F59-4B46-A522-6AFD0ADE80EE}|ePizzaHub.Services\\ePizzaHub.Services.csproj|solutionrelative:epizzahub.services\\implementation\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013A53AB-2F59-4B46-A522-6AFD0ADE80EE}|ePizzaHub.Services\\ePizzaHub.Services.csproj|c:\\projects\\epizzahub\\epizzahub.services\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013A53AB-2F59-4B46-A522-6AFD0ADE80EE}|ePizzaHub.Services\\ePizzaHub.Services.csproj|solutionrelative:epizzahub.services\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E430A4B-68A6-4F7E-B8FD-8F0B95CA42CC}|ePizzaHub.API\\ePizzaHub.API.csproj|c:\\projects\\epizzahub\\epizzahub.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E430A4B-68A6-4F7E-B8FD-8F0B95CA42CC}|ePizzaHub.API\\ePizzaHub.API.csproj|solutionrelative:epizzahub.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|c:\\projects\\epizzahub\\epizzahub.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|solutionrelative:epizzahub.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013A53AB-2F59-4B46-A522-6AFD0ADE80EE}|ePizzaHub.Services\\ePizzaHub.Services.csproj|c:\\projects\\epizzahub\\epizzahub.services\\configuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013A53AB-2F59-4B46-A522-6AFD0ADE80EE}|ePizzaHub.Services\\ePizzaHub.Services.csproj|solutionrelative:epizzahub.services\\configuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|c:\\projects\\epizzahub\\epizzahub.ui\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|solutionrelative:epizzahub.ui\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|c:\\projects\\epizzahub\\epizzahub.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2209DAF-D752-4D57-A6AB-15896049B9A9}|ePizzaHub.UI\\ePizzaHub.UI.csproj|solutionrelative:epizzahub.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ePizzaHub.UI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ePizzaHub.UI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T18:58:41.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_FullSizeLayout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Views\\Shared\\_FullSizeLayout.cshtml",
+              "RelativeDocumentMoniker": "ePizzaHub.UI\\Views\\Shared\\_FullSizeLayout.cshtml",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Views\\Shared\\_FullSizeLayout.cshtml",
+              "RelativeToolTip": "ePizzaHub.UI\\Views\\Shared\\_FullSizeLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T18:56:34.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ePizzaHub.UI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ePizzaHub.UI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAEwDQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:45:44.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ePizzaHub.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ePizzaHub.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T18:38:31.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ePizzaHub.API",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.API\\ePizzaHub.API.csproj",
+              "RelativeDocumentMoniker": "ePizzaHub.API\\ePizzaHub.API.csproj",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.API\\ePizzaHub.API.csproj",
+              "RelativeToolTip": "ePizzaHub.API\\ePizzaHub.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T18:38:16.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Areas\\Admin\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "ePizzaHub.UI\\Areas\\Admin\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Areas\\Admin\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "ePizzaHub.UI\\Areas\\Admin\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:55:55.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ePizzaHub.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ePizzaHub.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T18:56:40.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomAuthorize.cs",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.API\\Filters\\CustomAuthorize.cs",
+              "RelativeDocumentMoniker": "ePizzaHub.API\\Filters\\CustomAuthorize.cs",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.API\\Filters\\CustomAuthorize.cs",
+              "RelativeToolTip": "ePizzaHub.API\\Filters\\CustomAuthorize.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:03:22.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.API\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "ePizzaHub.API\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.API\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "ePizzaHub.API\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:10:21.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "ePizzaHub.UI\\appsettings.json",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\appsettings.json",
+              "RelativeToolTip": "ePizzaHub.UI\\appsettings.json",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T17:58:05.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.API\\Program.cs",
+              "RelativeDocumentMoniker": "ePizzaHub.API\\Program.cs",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.API\\Program.cs",
+              "RelativeToolTip": "ePizzaHub.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:52:58.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConfigureDependencies.cs",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.Services\\ConfigureDependencies.cs",
+              "RelativeDocumentMoniker": "ePizzaHub.Services\\ConfigureDependencies.cs",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.Services\\ConfigureDependencies.cs",
+              "RelativeToolTip": "ePizzaHub.Services\\ConfigureDependencies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:54:48.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Areas\\Admin\\Views\\Item\\Index.cshtml",
+              "RelativeDocumentMoniker": "ePizzaHub.UI\\Areas\\Admin\\Views\\Item\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Areas\\Admin\\Views\\Item\\Index.cshtml",
+              "RelativeToolTip": "ePizzaHub.UI\\Areas\\Admin\\Views\\Item\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T23:02:04.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ePizzaHub.API\\appsettings.json",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.API\\appsettings.json",
+              "RelativeToolTip": "ePizzaHub.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T17:58:18.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.Services\\Interfaces\\IItemService.cs",
+              "RelativeDocumentMoniker": "ePizzaHub.Services\\Interfaces\\IItemService.cs",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.Services\\Interfaces\\IItemService.cs",
+              "RelativeToolTip": "ePizzaHub.Services\\Interfaces\\IItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:00:34.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.Services\\Implementation\\ItemService.cs",
+              "RelativeDocumentMoniker": "ePizzaHub.Services\\Implementation\\ItemService.cs",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.Services\\Implementation\\ItemService.cs",
+              "RelativeToolTip": "ePizzaHub.Services\\Implementation\\ItemService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:00:46.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ePizzaHub.UI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ePizzaHub.UI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:02:19.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ePizzaHub.UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ePizzaHub.UI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAEwDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:53:46.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Program.cs",
+              "RelativeDocumentMoniker": "ePizzaHub.UI\\Program.cs",
+              "ToolTip": "C:\\Projects\\ePizzaHub\\ePizzaHub.UI\\Program.cs",
+              "RelativeToolTip": "ePizzaHub.UI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:50:42.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

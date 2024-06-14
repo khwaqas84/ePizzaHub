@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rbNtrpoJdGF0MXKORccS8RkIiYo+pz9KIoqEaSzWAUI=",
+  "Source": "ePizzaHub.API",
+  "BasePath": "_content/ePizzaHub.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
